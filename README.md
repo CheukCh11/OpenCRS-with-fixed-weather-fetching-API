@@ -202,6 +202,7 @@ The script will query weather APIs, parse statements, output the full broadcast 
 * **`[WinError 2] The system cannot find the file specified`:** Ensure `say.exe` and its `.dll` files are directly inside the `dectalk/` folder.
 * **DECtalk executes but produces no audio:** DECtalk buffers speech until it encounters ending punctuation (`.`, `!`, `?`). Ensure text strings end with punctuation, and check Windows Volume Mixer to verify `say.exe` is not muted.
 * **Abbreviations not translating:** Ensure your `IEMsettings.Products` in `settings.json` match the product PILs (e.g., `CWFOKX` or `SRFOKX`).
+* If it is not working, try doing `pip install tzdata`, it should work
 
 ---
 
