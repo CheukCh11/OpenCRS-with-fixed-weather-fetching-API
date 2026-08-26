@@ -1,0 +1,141 @@
+From 77c56097d19df539b6ecc9ba17909964135457eb Mon Sep 17 00:00:00 2001
+From: Seasonal_Currency <seasonal@seasonalnet.org>
+Date: Wed, 26 Aug 2026 11:51:59 -0400
+Subject: [PATCH] fix(documentation): replace Google links with direct links to
+ repositories, fix README Markdown lint debt
+
+---
+ README.md | 53 +++++++++++++++++------------------------------------
+ 1 file changed, 17 insertions(+), 36 deletions(-)
+
+diff --git a/README.md b/README.md
+index 3527883..3aed83a 100644
+--- a/README.md
++++ b/README.md
+@@ -1,5 +1,6 @@
+ # OpenCRS-with-fixed-weather-fetching-API
+-An updated and fixed fork of [Zeexel/OpenCRS](https://www.google.com/search?q=https://github.com/Zeexel/forecast-gen) and [wagwan-piffting-blud/OpenCRS](https://www.google.com/search?q=https://github.com/wagwan-piffting-blud/OpenCRS).
++
++An updated and fixed fork of [Zeexel/OpenCRS](https://github.com/Zeexel/forecast-gen) and [wagwan-piffting-blud/OpenCRS](https://github.com/wagwan-piffting-blud/OpenCRS).
+ 
+ ---
+ 
+@@ -17,8 +18,6 @@ The goal of **OpenCRS** is to replicate the National Weather Service's **Console
+ * **Marine & Coastal Forecast Parsers:** Automatically translates marine shorthand (`kt` → `knots`, `ft` → `feet`, `tstms` → `thunderstorms`, direction codes) in Coastal Waters Forecasts (CWF) and Surf Zone Forecasts (SRF).
+ * **Tabular Surf Zone Parser:** Converts dot-matrix tables (`Rip Current Risk............Moderate`) into readable, natural sentences.
+ * **DECtalk Execution Fix (`[WinError 2]`):** Fixed path resolution bugs when calling `say.exe` on Windows and Linux/macOS via Wine.
+-
+-
+ * **Expiration Guard:** Reads Universal Geographic Code (UGC) headers (`-DDHHMM-`) to automatically drop expired watches and warnings.
+ * **Custom Audio Splices:** Seamlessly injects `.wav` audio files (like alert tones or line splices) into the broadcast loop.
+ 
+@@ -26,17 +25,13 @@ The goal of **OpenCRS** is to replicate the National Weather Service's **Console
+ 
+ ## How OpenCRS Works
+ 
+-```
++```text
+ [ NWS / IEM APIs ] ──► [ Expiration & Zone Filters ] ──► [ Conversational Parsers ] ──► [ DECtalk / Balcon TTS ]
+ 
+ ```
+ 
+ 1. **Fetching (`apihandlers/`):** Pulls raw text products from the Iowa Environmental Mesonet (IEM) or NWS APIs.
+-
+-
+ 2. **Filtering & Slicing (`generators.py`):** Filters out expired products using UGC timestamps and isolates active zones specified in `settings.json`.
+-
+-
+ 3. **Conversational Parsing:** Strips unwanted metadata headers and converts raw shorthand, climate statistics, and observation tables (RWR) into natural sentences.
+ 4. **Broadcast Pipeline (`main.py`):** Sequences station identification, current Eastern time announcements, custom audio splices, urgent alerts, and routine forecasts into a single stream.
+ 5. **TTS Output (`SpeechHandler.py`):** Cleans text to prevent DECtalk bracket crashes and feeds output directly to the TTS engine.
+@@ -48,8 +43,6 @@ The goal of **OpenCRS** is to replicate the National Weather Service's **Console
+ * **Python 3.8+**
+ * **Wine** (Only required if running DECtalk on Linux or macOS)
+ 
+-
+-
+ ---
+ 
+ ## Installation & Setup
+@@ -80,7 +73,16 @@ pip install -r requirements.txt
+ DECtalk is the classic voice engine for NOAA Weather Radio simulations.
+ 
+ 1. Create a `dectalk/` folder in the root directory if it does not exist.
+-2. Ensure `say.exe` and its supporting DLL files (`dectalk.dll`, `dtalk_us.dic`, etc.) are placed inside the `dectalk/` folder:
++2. Ensure `say.exe` and its supporting DLL files (`dectalk.dll`, `dtalk_us.dic`, etc.) are placed inside the `dectalk/` folder.
++3. **Test DECtalk manually via Terminal:**
++
++* **Windows:**
++
++```cmd
++cd dectalk
++echo Hello world. | say.exe
++```
++
+ ```text
+ OpenCRS/
+ ├── dectalk/
+@@ -90,48 +92,27 @@ OpenCRS/
+ ├── main.py
+ ├── generators.py
+ └── settings.json
+-
+ ```
+ 
+-
+-3. **Test DECtalk manually via Terminal:**
+-* **Windows:**
+-```cmd
+-cd dectalk
+-echo Hello world. | say.exe
+-
+-```
+-
+-
+ * **Linux / macOS:**
++
+ ```bash
+ cd dectalk
+ echo "Hello world." | wine say.exe
+-
+ ```
+ 
+-
+-
+-
+-
+ ### Option 2: Balcon (Balabolka CLI)
+ 
+ [Balcon](http://www.cross-plus-a.com/bconsole.htm) is a free command-line reader.
+ 
+ 1. Download Balcon and place the `balcon/` folder in the root OpenCRS directory.
++2. List available voices on your system.
++3. After running the list, update the voice name under `"balcon"` in `settings.json`.
+ 
+-
+-2. List available voices on your system:
+ ```cmd
+ balcon.exe -l
+-
+ ```
+ 
+-
+-3. Update the voice name under `"balcon"` in `settings.json`.
+-
+-
+-
+ ---
+ 
+ ## Configuration (`settings.json`)
+@@ -205,7 +186,7 @@ The script will query weather APIs, parse statements, output the full broadcast
+ 
+ ---
+ 
+-### some things to note:
++### some things to note
+ 
+ so yeah, it works, although it currently has some stuff in beta, so do know that
+ also, there is Emergency Alert System (EAS) tone logic in here, so please DO not broadcast them on the air; otherwise, some people from the FCC might not be happy with that >:(
+-- 
+2.53.0
+
