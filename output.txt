@@ -1,0 +1,143 @@
+You are listening to NOAA's All-Hazards Radio, station K W O 35 in New York City. This broadcast originates from the National Weather Service forecast office located on the grounds of Brookhaven National Laboratory in Upton New York. Station K W O 35 broadcasts at a frequency of 162.55 Megahertz, this service is not official and uses the Iowa Environmental Mesonet API to fetch newest alerts.
+
+The current time is 12:24 PM EDT.
+
+And now, here is the Hazardous Weather Outlook for Long Island Sound East of New Haven CT/Port Jefferson NY to the Mouth of the Connecticut River.
+
+This Hazardous Weather Outlook is for Atlantic coastal waters.
+
+.DAY ONE...Today and tonight.
+
+No hazardous weather is expected at this time.
+
+.DAYS TWO THROUGH SEVEN...Wednesday through Monday.
+
+No hazardous weather is expected at this time that would meet NWS
+warning criteria.
+
+.SPOTTER INFORMATION STATEMENT...
+
+Spotter activation is not expected at this time.
+
+
+
+This Hazardous Weather Outlook provides a summary of potential
+widespread hazardous weather events that may reach NWS warning
+criteria. Most long fused NWS watches, warnings, and advisories in
+effect are highlighted.
+
+Please refer to the latest NWS forecasts for weather not meeting NWS
+warning criteria.
+---------------------------
+Here is the local forecast for New York (Manhattan).
+
+.TODAY...Sunny. Highs in the mid 70s. West winds 5 to 10 mph with
+gusts up to 20 mph. 
+.TONIGHT...Partly cloudy with a slight chance of thunderstorms
+with isolated showers in the evening, then clear after midnight.
+Patchy fog after midnight. Lows in the upper 50s. Northwest winds
+5 to 10 mph. Gusts up to 20 mph in the evening. Chance of rain
+20 percent. 
+.WEDNESDAY...Patchy fog in the morning. Sunny. Highs in the upper
+70s. Northwest winds around 5 mph, becoming southwest around
+5 mph in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the mid 60s. Southwest
+winds around 5 mph. 
+.THURSDAY...Partly sunny. A chance of showers in the afternoon.
+Humid with highs in the upper 70s. South winds 5 to 10 mph. Gusts
+up to 20 mph in the afternoon. Chance of rain 40 percent. 
+.THURSDAY NIGHT...Showers likely. Lows in the mid 60s. Chance of
+rain 70 percent. 
+.FRIDAY...Mostly cloudy with showers likely in the morning, then
+partly sunny with a chance of showers in the afternoon. Highs in
+the upper 70s. Chance of rain 60 percent. 
+.FRIDAY NIGHT...Mostly cloudy. A chance of showers in the
+evening. Lows in the lower 60s. Chance of rain 30 percent. 
+.SATURDAY...Mostly sunny. Highs in the upper 70s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 60s. 
+.SUNDAY...Sunny. Highs in the upper 70s. 
+.SUNDAY NIGHT...Mostly clear in the evening, then becoming partly
+cloudy. Lows in the mid 60s. 
+.MONDAY...Mostly sunny. Highs in the lower 80s.
+---------------------------
+Here is the daily climate summary. Yesterday's high temperature was 79 degrees. The low temperature was 65 degrees. Total precipitation was 0.00 inches. 
+---------------------------
+Here is the local forecast for New York (Manhattan).
+
+.TODAY...Sunny. Highs in the mid 70s. West winds 5 to 10 mph with
+gusts up to 20 mph. 
+.TONIGHT...Partly cloudy with a slight chance of thunderstorms
+with isolated showers in the evening, then clear after midnight.
+Patchy fog after midnight. Lows in the upper 50s. Northwest winds
+5 to 10 mph. Gusts up to 20 mph in the evening. Chance of rain
+20 percent. 
+.WEDNESDAY...Patchy fog in the morning. Sunny. Highs in the upper
+70s. Northwest winds around 5 mph, becoming southwest around
+5 mph in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the mid 60s. Southwest
+winds around 5 mph. 
+.THURSDAY...Partly sunny. A chance of showers in the afternoon.
+Humid with highs in the upper 70s. South winds 5 to 10 mph. Gusts
+up to 20 mph in the afternoon. Chance of rain 40 percent. 
+.THURSDAY NIGHT...Showers likely. Lows in the mid 60s. Chance of
+rain 70 percent. 
+.FRIDAY...Mostly cloudy with showers likely in the morning, then
+partly sunny with a chance of showers in the afternoon. Highs in
+the upper 70s. Chance of rain 60 percent. 
+.FRIDAY NIGHT...Mostly cloudy. A chance of showers in the
+evening. Lows in the lower 60s. Chance of rain 30 percent. 
+.SATURDAY...Mostly sunny. Highs in the upper 70s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 60s. 
+.SUNDAY...Sunny. Highs in the upper 70s. 
+.SUNDAY NIGHT...Mostly clear in the evening, then becoming partly
+cloudy. Lows in the mid 60s. 
+.MONDAY...Mostly sunny. Highs in the lower 80s.
+---------------------------
+Here is a Public Information Statement from the National Weather Service.
+
+NOAA Weather Radio stations...
+
+KWO35, from New York City on a frequency of 162.55 MHz 
+WXM80, from Riverhead NY on a frequency of 162.475 MHz 
+WXJ42, from Meriden CT on a frequency of 162.400 MHz 
+KHB47, from Montville CT on a frequency of 162.55 MHz 
+
+will be out of service from 900am to 300pm EDT on Tuesday August 
+25th for a planned systems update.
+---------------------------
+Here is the Coastal Waters Forecast for Moriches Inlet NY to Montauk Point NY out 20 NM.
+
+.TODAY...West winds around 10 knots, becoming Southwest late. Seas around
+2 feet. Wave Detail: Northwest 2 feet at 3 seconds and South 1 feet at 6 seconds. 
+.TONIGHT...West winds 5 to 10 knots, becoming Northwest after midnight. Seas
+around 2 feet. Wave Detail: Southwest 2 feet at 4 seconds and East 1 feet at
+7 seconds. 
+.Wednesday...Northwest winds around 5 knots, becoming Southwest in the afternoon. Seas
+around 2 feet. Wave Detail: Southeast 2 feet at 10 seconds and Northwest 1 feet at
+3 seconds. 
+.Wednesday NIGHT...South winds 5 to 10 knots. Seas 2 to 3 feet. Wave Detail: South
+2 feet at 6 seconds and Southeast 2 feet at 9 seconds. 
+.Thursday...South winds 10 to 15 knots with gusts up to 20 knots. Seas 3 to
+4 feet, occasionally to 5 feet. Wave Detail: South 3 feet at 5 seconds and
+Southeast 2 feet at 9 seconds. Slight chance of showers. 
+.Thursday NIGHT...South winds 10 to 15 knots, diminishing to 5 to 10 knots after
+midnight. Seas 4 to 5 feet, occasionally to 6 feet. Wave Detail: South
+4 feet at 6 seconds and East 2 feet at 9 seconds. Showers likely. Chance
+of thunderstorms after midnight. 
+.Friday...Southwest winds around 5 knots. Seas 4 to 5 feet, occasionally to
+6 feet. Chance of showers. 
+.Friday NIGHT...West winds 5 to 10 knots. Seas 3 to 4 feet, occasionally to
+5 feet. 
+.Saturday...Northeast winds 5 to 10 knots. Seas 2 to 3 feet. 
+.Saturday NIGHT...East winds around 5 knots. Seas around 2 feet.  
+
+Winds and seas may be higher in and near thunderstorms.
+---------------------------
+Here is the regional weather roundup.
+
+Here are the current conditions. Elsewhere in the metropolitan area, As of 10:00 am. at Central Park, it was sunny; the temperature was 70 degrees, the dew point 57, and the relative humidity 63 percent. The wind was variable at 5 miles an hour. The pressure was 30.04 inches and steady. At the Bronx Botanical Gardens, the temperature was 70. At LaGuardia Airport, it was mostly sunny, with a temperature of 70. At Queens College, the temperature was 70. At Kennedy, it was mostly sunny, with a temperature of 72. At Breezy Point, the temperature was 70. At Brooklyn College, the temperature was 70. At Staten Island, the temperature was 70. At Newark, it was mostly sunny, with a temperature of 72. At Teterboro, it was sunny, with a temperature of 70. Across Long Island, At Jones Beach, the temperature was 72. At Wantagh, the temperature was 72. The report from Hempstead was not available. At Matinecock Pt, the temperature was 70. At Farmingdale, it was sunny, with a temperature of 71. At Islip, it was mostly sunny, with a temperature of 71. At Stony Brook, the temperature was 70. At Shirley, it was sunny, with a temperature of 71. At Mt Sinai Harb, the temperature was 72. At Westhampton, it was sunny, with a temperature of 71. At East Hampton, it was sunny, with a temperature of 71. At Southold, the temperature was 70. At Montauk, the temperature was 71. In the Hudson Valley, At White Plains, it was sunny, with a temperature of 69. At Larchmont Harb, the temperature was 68. At Croton On Huds, the temperature was 72. At Somers, the temperature was 68. At Brewster, the temperature was 70. At Newburgh, it was mostly sunny, with a temperature of 68. At Montgomery, it was mostly sunny, with a temperature of 69. At Otisville, the temperature was 64. At Warwick, the temperature was 66. At Suffern, the temperature was 66. At Poughkeepsie, it was sunny, with a temperature of 69. At Albany, it was partly sunny, with a temperature of 67. In New Jersey, At Newark, it was mostly sunny, with a temperature of 72. At Teterboro, it was sunny, with a temperature of 70. At Caldwell, it was sunny, with a temperature of 70. At Somerville, it was sunny, with a temperature of 72. At Linden, it was sunny, with a temperature of 71. At Perth Amboy, the temperature was 68. At Sussex, it was partly sunny, with a temperature of 69. At Andover, the temperature was 69. At Trenton, it was sunny, with a temperature of 71. At Millville, it was sunny, with a temperature of 74. At Atlantic City, it was sunny, with a temperature of 72. At Wrightstown, it was sunny, with a temperature of 72. At Belmar, it was sunny, with a temperature of 73. In Eastern Pennsylvania, At Philadelphia, it was mostly sunny, with a temperature of 74. At Allentown, it was mostly sunny, with a temperature of 69. At Scranton, it was cloudy, with a temperature of 65. In Southern New England, At Bradley International Airport, it was mostly sunny, with a temperature of 71. At Hartford, it was sunny, with a temperature of 70. At Danbury, it was sunny, with a temperature of 68. At Waterbury Oxford, it was sunny, with a temperature of 67. At Bridgeport, it was sunny, with a temperature of 71. At Meriden, it was sunny, with a temperature of 70. At New Haven, it was sunny, with a temperature of 68. At Chester, it was mostly sunny, with a temperature of 73. At Groton, it was sunny, with a temperature of 71. At Willimantic, it was sunny, with a temperature of 69. At Providence, it was mostly sunny, with a temperature of 72. At Block Island, it was sunny, with a temperature of 71. At Westerly, it was sunny, with a temperature of 71. At Boston, it was mostly sunny, with a temperature of 73. At Worcester, it was sunny, with a temperature of 66. At Westfield, it was partly sunny, with a temperature of 72. At Provincetown, it was sunny, with a temperature of 70. At Nantucket, it was sunny, with a temperature of 73. In Coastal Marine Observations, The report from the buoy 23 nautical miles south-southwest of Montauk Point was not available. The report from Hudson Canyon was not available. The report from Execution Rocks was not available. The report from the western sound was not available. The report from Central Sound was not available.
+---------------------------
+Here is the state weather summary.
+
+Here are the current conditions. As of 10:00 am. at Central Park, it was sunny; the temperature was 70 degrees, the dew point 57, and the relative humidity 63 percent. The wind was variable at 5 miles an hour. The pressure was 30.04 inches and steady. At LaGuardia Airport, it was mostly sunny, with a temperature of 70. At Kennedy, it was mostly sunny, with a temperature of 72. At Newark Liberty, it was mostly sunny, with a temperature of 72. At Teterboro, it was sunny, with a temperature of 70. At the Bronx Botanical Gardens, the temperature was 70. At Queens College, the temperature was 70. The report from Breezy Point was not available. At Brooklyn College, the temperature was 70. At Staten Island, the temperature was 70.
+---------------------------

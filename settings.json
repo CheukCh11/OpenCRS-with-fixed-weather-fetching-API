@@ -1,0 +1,103 @@
+{
+  "loglevel": "DEBUG",
+
+  "OpenCRSsettings": {
+    "system": "imperial",
+    "apihandler": "iem",
+    "_apihandler_options": "noaa (api.weather.gov JSON), iem (mesonet.agron.iastate.edu raw text products), ibm (unimplemented)"
+  },
+
+  "NWSsettings": {
+    "ForecastOffice": "OKX",
+    "Zones": [
+      "CTZ005",
+      "NYC061",
+      "NYC047",
+      "NYC081",
+      "NYC005",
+      "NYC085",
+      "NJC017",
+      "NJC013",
+      "NJC039",
+      "NJC003",
+      "ANZ300",
+      "ANZ350",
+      "ANZ353",
+      "ANZ355",
+      "ANZ332",
+      "ANZ331",
+      "ANZ335",
+      "ANZ338",
+      "ANZ340",
+      "ANZ345",
+      "ANZ380",
+      "ANZ383"
+    ],
+    "PriorityZones": [
+      "Unimplemented"
+    ],
+    "ObservationZones": [
+      "KIFP",
+      "KEED",
+      "QMBA3",
+      "TCRA3"
+    ]
+  },
+
+  "IEMsettings": {
+    "_comment": "Used when OpenCRSsettings.apihandler is 'iem'. ForecastOffice is the 3-letter WFO id. Products is a list of full 6-char AFOS PILs to read, e.g. HWOVEF (Hazardous Weather Outlook), ZFPVEF (Zone Forecast Package), TORVEF/SVRVEF (active Tornado/Severe Thunderstorm Warnings), SPSVEF (Special Weather Statement). See https://forecast.weather.gov/product_types.php?site=NWS for the full PIL list.",
+    "ForecastOffice": "OKX",
+    "Products": [
+      "HWOOKX",
+      "SRFOKX",
+      "ZFPOKX",
+      "CLINYC",
+      "ZFPOKX",
+      "PNSOKX",
+      "TOROKX",
+      "TOAOKX",
+      "FFWOKX",
+      "SMWOKX",
+      "FFSOKX",
+      "FLWOKX",
+      "CWFOKX",
+      "SVROKX",
+      "SVAOKX",
+      "SPSOKX",
+      "MWSOKX",
+      "SVSOKX",
+      "FLSOKX",
+      "RWROKX",
+      "OSOOKX",
+      "CDWOKX",
+      "TOEOKX",
+      "CEMOKX",      "CAEOKX",
+      "LAEOKX"
+    ]
+  },
+
+  "CustomAudio": {
+    "enabled": false,
+    "play_intro_text": false,
+    "intro_text": "The following is a Public Information Statement from the National Weather Service.",
+    "path": "sounds/splice-xj-phoneline-v2_f5667fe5341fb3a3.wav"
+  },
+
+  "TTS": {
+    "enabled": true,
+    "engine": "dectalk",
+
+    "dectalk": {
+      "rate": 250,
+      "voice": "[:Nh :PH ON :RA 207 :DV BF 40 HR 22 SR 44]"
+    },
+
+    "balcon": {
+      "download_here": "http://www.cross-plus-a.com/bconsole.htm",
+      "voice": "ScanSoft Tom_Full_22kHz",
+      "dictionary-path": "pronunciationfix.dic",
+      "volume": 25,
+      "speed": 125
+    }
+  }
+}
