@@ -1,8 +1,6 @@
-i found this sitting here, so here's a guide on how the voice thing works
-
 # OpenCRS DECtalk settings & usage guide.
-
-As mentioned in the README for OpenCRS, here's a more comprehensive DECTalk guide.
+ 
+As mentioned in the README for OpenCRS, here's that more comprehensive DECTalk guide.
 
 The DECTalk version included in OpenCRS is ``4.60 NWS``
 
