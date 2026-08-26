@@ -1,5 +1,5 @@
 # OpenCRS-with-fixed-weather-fetching-API
-An updated and fixed fork of [Zeexel/OpenCRS](https://www.google.com/search?q=https://github.com/Zeexel/forecast-gen) and [wagwan-piffting-blud/OpenCRS](https://www.google.com/search?q=https://github.com/wagwan-piffting-blud/OpenCRS).
+An updated and fixed fork of [Zeexel/OpenCRS](https://github.com/Zeexel/forecast-gen) and [wagwan-piffting-blud/OpenCRS](https://github.com/wagwan-piffting-blud/OpenCRS).
 
 ---
 
