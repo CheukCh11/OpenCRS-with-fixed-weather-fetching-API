@@ -207,6 +207,6 @@ The script will query weather APIs, parse statements, output the full broadcast 
 ---
 
 ### some things to note:
-
-so yeah, it works, although it currently has some stuff in beta, so do know that
-also, there is Emergency Alert System (EAS) tone logic in here, so please DO not broadcast them on the air; otherwise, some people from the FCC might not be happy with that >:(
+- there is Emergency Alert System (EAS) tone logic in here, so please DO not broadcast them on the air; otherwise, some people from the FCC might not be happy with that >:(
+- Linux version is **NOT GUARANTEED **to work; I have not had people test on this. If it doesn't work, please just let me know.
+- Windows is **NOT GUARANTEED **to work at times. If there are any issues, please create a post in the Issues section.
